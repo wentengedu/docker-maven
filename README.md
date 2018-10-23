@@ -1,0 +1,3 @@
+# docker-maven
+可以运行docker的maven镜像
+dockerhub上的maven镜像并不能执行docker命令，导致我们无法使用docker build 等命令。所以我们自己制作一个docker_maven镜像。
